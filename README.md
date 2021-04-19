@@ -14,13 +14,14 @@ mostly time related.
 
 -early is designed to last an hour and half or so.
 Latest cards are "beat Misty" / "save Bill"
+typically do this as "Lockout rules, first to 10 OR beat Surge"
 
 -middle will give you a game that ends around about Vermilion. 
 Latest objectives are "Get to Lavender Town" / "Defeat Surge".
 There's a lot of "do this challenge condition until X point" cards
+typically do Silph Scope as an endgame tiebreaker
 
 -late expectation is that you'll need to clear a Snorlax at least.
 Latest objectives are "Defeat Sabrina/Blaine" / "Catch Articuno".
 Idea being there's a lot of stuff you can focus and get early but still circle back for later.
-
-might do a lategame one, probably won't though.
+You could actually do "first to a line no lockout" here.
